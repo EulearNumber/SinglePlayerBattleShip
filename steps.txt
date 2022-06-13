@@ -1,0 +1,11 @@
+for Server:
+gcc projectServer.c -o projectServer
+
+./projectServer
+
+for Client:
+
+gcc projectClient.c -o projectClient
+./projectServer
+
+
